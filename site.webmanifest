@@ -1,0 +1,10 @@
+{
+  "name": "AlterLabs CRM Local Prototype",
+  "short_name": "AlterLabs CRM",
+  "description": "Local interactive CRM product prototype.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061733",
+  "theme_color": "#071641",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
